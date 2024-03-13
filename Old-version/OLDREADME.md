@@ -20,6 +20,8 @@ If you don't use the optional method the game might tell you to unlock the game 
 
   
 ![r/CrackSupport - (Finally) Minecraft Windows 10 crack](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-python/blob/main/Old-version/Assets-to-OLDreadme/48rotrdmgai71.png?raw=true)
+
+
 5. [Optional] Open "no trial.py". You should see some "############" if it works properly. Do not close it until you have finished playing minecraft. Note that this script automatically closes RuntimeBroker (which enables minecraft to communicate with microsoft store) and does not harm your computer in any way. You can open it with notepad and see it is totally safe.
 
 ![r/CrackSupport - (Finally) Minecraft Windows 10 crack](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-python/blob/main/Old-version/Assets-to-OLDreadme/pesg4cr9hai71.png?raw=true)
