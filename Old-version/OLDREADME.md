@@ -30,7 +30,7 @@ If you don't use the optional method the game might tell you to unlock the game 
 
 NB: next time you want to play, just do the 5th step and you are ready to go !
 
-Please tell me in the comments if you ran into problems or found sth complicated
+Please tell me in the comments if you ran into problems or found something complicated
 
 PLEASE NOTE THAT YOU MAY RUN INTO PROBLEMS WITH MICROSOFT STORE APP AFTER USING THIS METHOD (UPDATES NOT INSTALLING, APP NOT LAUNCHING). IF YOU DO AND YOU WANT TO FIX IT, OPEN THE FILE "disable.reg" AND REENABLE "ClipSVC" IN TASK MANAGER.
 
