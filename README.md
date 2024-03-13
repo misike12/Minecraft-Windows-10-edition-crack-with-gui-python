@@ -7,24 +7,24 @@ _This is a super easy method i discovered a while ago. It is not really a crack.
 
 ============= Final result ==========
 
-![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://preview.redd.it/vfmrmp2xfpj71.png?width=1366&format=png&auto=webp&s=bd727f0d0bbe0cb56e42c352a67d1fcf35179f2f)
+![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/1mrqm11yfpj71.webp)
 Steps to follow:
 1.  Download minecraft trial version and python 3.8 from microsoft store (see steps 1 and 2 in  [the older post](https://www.reddit.com/r/PiratedGames/comments/p7c4a6/finally_minecraft_windows_10_crack/))
 2.  Download  [the launcher script](https://drive.google.com/file/d/1ebSksO9o7JRLe_O7iYKBFY9u0rbSDNaf/view?usp=sharing)  and run it.
 
-![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://preview.redd.it/1mrqm11yfpj71.png?width=596&format=png&auto=webp&s=cc364415ebca76d40c31ca4e24b0e63be03bc0e6)
+![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/ftiwqxp0gpj71.webp)
 
 4. Press enable and follow the instructions. If it works you should see this dialog
 
-![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://preview.redd.it/jrsry60zfpj71.png?width=232&format=png&auto=webp&s=08e6b33e6e0bd71da36cce05093a627e89346fec)
+![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/jrsry60zfpj71.webp)
 
 4. Press launch minecraft. If it's your first time opening the launcher, a popup dialog will ask you to open minecraft ( the trial you've downloaded earlier) for detecting the appid. Carefully read the instructions and you should be alright with this dialog appearing (I don't know if it's safe to show my app id so I blured it)
 
-![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://preview.redd.it/ztdcrpuzfpj71.png?width=323&format=png&auto=webp&s=a75f135bb5ab7eff72b595b1665ff7cad5741ece)
+![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/vfmrmp2xfpj71.webp)
 
 5. Press ok and enjoy :D
 
-![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://preview.redd.it/ftiwqxp0gpj71.png?width=415&format=png&auto=webp&s=bc8b96ff921616adf1af7812b597beb528e7f6f2)
+![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/ztdcrpuzfpj71.webp)
 
 6. If you want to disable the crack just close the above window ;)
 
