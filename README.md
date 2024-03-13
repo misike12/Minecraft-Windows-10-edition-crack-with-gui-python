@@ -49,3 +49,7 @@ If you are having problems with the script, rename it to  [launcher.py](https://
 I just fixed the problem where the script doesn't launch at all even after downloading PIL. Please download it again and see if it works
 
 **If you encounter any problems or sth was unclear, send me message describing your issue. I will edit the post to help future users.**
+
+
+
+# All credit goes to [Mino](https://www.reddit.com/user/Mino260806/)
