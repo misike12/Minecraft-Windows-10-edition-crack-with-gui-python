@@ -20,11 +20,11 @@ Steps to follow:
 
 4. Press launch minecraft. If it's your first time opening the launcher, a popup dialog will ask you to open minecraft ( the trial you've downloaded earlier) for detecting the appid. Carefully read the instructions and you should be alright with this dialog appearing (I don't know if it's safe to show my app id so I blured it)
 
-![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/vfmrmp2xfpj71.webp)
+![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/ztdcrpuzfpj71.webp)
 
 5. Press ok and enjoy :D
 
-![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/ztdcrpuzfpj71.webp)
+![r/CrackSupport - Minecraft Windows 10 edition crack (with gui)](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-/raw/main/Assets-to-readme/ftiwqxp0gpj71.webp)
 
 6. If you want to disable the crack just close the above window ;)
 
