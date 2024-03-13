@@ -10,7 +10,7 @@ If you don't use the optional method the game might tell you to unlock the game 
 
 2. [Optional] Also download python from the mircrosoft store (preferably 3.8)
 
-![r/CrackSupport - (Finally) Minecraft Windows 10 crack](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-python/blob/main/Old-version/Assets-to-OLDreadme/rl092dtzeai71.png.png?raw=true)
+![r/CrackSupport - (Finally) Minecraft Windows 10 crack](https://github.com/misike12/Minecraft-Windows-10-edition-crack-with-gui-python/blob/main/Old-version/Assets-to-OLDreadme/rl092dtzeai71.png?raw=true)
 
 3. Make sure to close the microsoft store and open task manager (if you don't know how just use search). Go to the tab "Services" and look for ClipSVC. Right click, and then stop.
 
