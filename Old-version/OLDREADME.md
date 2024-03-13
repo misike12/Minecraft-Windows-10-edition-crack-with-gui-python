@@ -31,3 +31,6 @@ NB: next time you want to play, just do the 5th step and you are ready to go !
 Please tell me in the comments if you ran into problems or found sth complicated
 
 PLEASE NOTE THAT YOU MAY RUN INTO PROBLEMS WITH MICROSOFT STORE APP AFTERUSING THIS METHOD (UPDATES NOT INSTALLING, APP NOT LAUNCHING). IF YOU DO AND YOU WANT TO FIX IT, OPEN THE FILE "disable.reg" AND REENABLE "ClipSVC" IN TASK MANAGER.
+
+
+# Source: https://web.archive.org/web/20210819101956/https://www.reddit.com/r/CrackSupport/comments/p7c3jb/finally_minecraft_windows_10_crack/
